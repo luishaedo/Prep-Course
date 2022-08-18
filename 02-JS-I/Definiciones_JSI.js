@@ -1,4 +1,4 @@
-/// Definiciones
+/// Definiciones jsI
 
 /// Variables: Las variables son datos almacenados en la memoria de la pc. Para diferenciar los datos que almacenaremos, y 
 /// poder utilizarlos, a estas variables les asignamos nombres referenciales. 
