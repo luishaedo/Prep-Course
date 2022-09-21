@@ -1,0 +1,85 @@
+* {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+  }
+#nav{
+    position: fixed;
+    width: 25%;
+    font-size: 20px;
+    margin: 0 auto;
+}
+h1{
+    font-size: 35px;
+    text-align: center;
+    
+}
+h3{
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+}
+
+span{
+    font-size: 20px;
+}
+
+#contenedor{
+    position: relative;
+    margin-left: 17%;
+    
+
+}
+
+#descripcionP{
+    
+    margin-right: 20%;
+    padding: 7px;
+    margin-bottom: 20px;
+    max-width: 70%;
+    margin: 0 auto;
+}
+
+#formacion{
+    margin-right: 20%;
+    padding: 7px;
+    margin-bottom: 20px;
+    max-width: 70%;
+    margin: 0 auto;
+}
+
+#expLaboral{
+    margin-bottom: 20px;
+    max-width: 70%;
+    margin: 0 auto;
+
+}
+
+#contenedor2{
+    display: -webkit-flex;
+    display: flex;
+}
+
+#skills{
+    display: inline-block;
+    width: 50%;
+    vertical-align: top;
+    
+    
+}
+#h3skills{
+    text-align: center;
+}
+
+#hobbies{
+    display: inline-block;
+    width: 50%;
+    vertical-align: top;
+       
+    
+}
+#h3hobbies{
+    text-align: center;
+}

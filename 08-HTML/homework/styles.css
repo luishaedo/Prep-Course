@@ -1,0 +1,59 @@
+* {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+  }
+
+body {
+    background-color: skyblue;
+    position: relative;
+    }
+
+h1 {
+    color : rgb(21, 78, 38);  
+    }
+
+.divClass{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 50px;
+    
+    
+}
+    
+.divClass2{
+    max-width: 600px;
+    margin: 0 auto;
+ 
+
+    
+}
+
+#thirdDiv {
+    position: relative;
+    height: 600px;
+    width: 500px;
+    background: rgb(109, 15, 23);
+    padding: 50px;
+    border: 2px;
+    border-color: rgb(87, 82, 78);
+    border-style: dashed;
+    }    
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+    
+    }
+#spanId2{
+    font-size: 18px;
+    margin: 50px;
+    
+
+}
+
+#imgqueso {
+    width: 100px;
+    }
+#imgjamon {
+    width: 100px;
+    }
